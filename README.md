@@ -16,7 +16,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chakri.git
+    git clone https://github.com/souvikdas-dev/chakri.git
     ```
 
 2. Navigate to the project directory:
